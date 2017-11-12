@@ -27,10 +27,11 @@ body {
 	-webkit-font-smoothing: antialiased;
 	color: #444;
 	text-align: center;
+	max-width: 90%;
 }
 
 /* ------ TEXT ------- */
 
-h1 {font-size: 100pt;}
+h1 {font-size: 80pt;}
 p {font-size: 50pt; color:aqua;}
 img {width: 400px; margin-top: 50px; margin-bottom: 50px;}
