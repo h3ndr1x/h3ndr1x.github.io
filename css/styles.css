@@ -32,4 +32,5 @@ body {
 /* ------ TEXT ------- */
 
 h1 {font-size: 100pt;}
-p {font-size: 50pt;color:aqua;}
+p {font-size: 50pt; color:aqua;}
+img {width: 400px; margin-top: 50px; margin-bottom: 50px;}
