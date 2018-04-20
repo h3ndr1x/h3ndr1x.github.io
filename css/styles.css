@@ -28,12 +28,37 @@ body {
 	color: #444;
 	text-align: center;
 	width: 90%;
-	max-width: 1000px;
+	max-width: 800px;
 	margin: 0 auto;
+	padding: 30px 0 50px;
 }
 
 /* ------ TEXT ------- */
 
 h1 {font-size: 50pt;}
-p {font-size: 30pt; color:aqua;}
-img {width: 400px; margin-top: 50px; margin-bottom: 50px;}
+h2 {font-size: 30pt; color:aqua;}
+h3 {
+  font-size: 20pt; 
+  font-weight: 700; 
+  color: white; 
+  background: aqua;
+  margin-bottom: 30px;
+  padding: 5px 0;
+}
+  
+p {font-size: 18pt;}
+img {width: 400px; margin-top: 50px; margin-bottom: 30px;}
+
+a {
+  font-size: 20pt;
+  color: aqua;
+}
+
+/* ------ VIDS ------- */
+
+.vids {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+iframe{padding:10px 0;}
